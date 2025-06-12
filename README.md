@@ -6,7 +6,7 @@ An end-to-end Excel dashboard project that transforms emergency room data into m
 
 ## 📸 Dashboard Preview
 
-![Hospital Dashboard Final.png](Hospital Dashboard Final.png)
+(Hospital Dashboard Final.png).
 
 ---
 
@@ -48,11 +48,11 @@ This project analyzes a hospital’s emergency room activity using data collecte
 ## 📂 Project Files
 
 📁 Hospital Emergency Room Dashboard
-├── 📄 Hospital Emergency Room Dashboard.xlsx     # Main Excel file with dashboard
-├── 📄 Hospital Emergency Room Data.csv           # Raw data used for analysis
-├── 📄 Hospital_Dashboard_Final_Updated.png       # Final dashboard screenshot (updated)
-├── 📄 END TO END DASHBOARD PROJECT IN EXCEL.pptx # Presentation describing the project
-├── 📄 README.md                                  # Project documentation
+├── 📄 Hospital Emergency Room Dashboard.xlsx        # Main Excel file with dashboard
+├── 📄 Hospital Emergency Room Data.csv              # Raw data used for analysis
+├── 📄 Hospital_Dashboard_Final_Updated.png          # Final dashboard screenshot (updated)
+├── 📄 END TO END DASHBOARD PROJECT IN EXCEL.pptx    # Presentation describing the project
+├── 📄 README.md                                     # Project documentation
 
 ---
 
